@@ -12,7 +12,7 @@ const buttonVariants = cva(
         primary:
           "bg-gradient-to-b from-blue-500 to-blue-600 text-primary-foreground hover:from-blue-600 hover:to-blue-700",
         destructive:
-          "bg-gradient-to-b from-amber-500 to-amber-600 text-destructive-foreground hover:from-amber-600 hover:to-amber-600",
+          "bg-gradient-to-b from-red-500 to-red-600 text-destructive-foreground hover:from-red-600 hover:to-red-600",
         outline:
           "border border-input bg-background shadow-sm hover:bg-accent hover:text-accent-foreground",
         secondary:
